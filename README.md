@@ -10,7 +10,7 @@ This repo will be updated each Monday with new coding problems for members of th
 
  1. Clone this repo to your local computer.
 
-	 i.e. `git clone https://github.com/Virtual-VV/code-challenges.git`
+	 i.e. `git clone https://github.com/Virtual-VV/virtual-vv-code-challenges.git`
  2. Create and checkout a new branch using your name.
 
 	 i.e. `git checkout -b <yourname>`
