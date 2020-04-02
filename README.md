@@ -44,4 +44,4 @@ Coding problems will be borrowed from the following sources:
   
   
 
-Please feel free to add (via PR) any additional websites/books/etc. you would like to see coding problems from! You can also add any coding problem resources you find in the Accountabilibuddies #code-problems Slack channel, and I'll try to keep this list updated.
+Please feel free to add (via PR) any additional websites/books/etc. you would like to see coding problems from! You can also add any coding problem resources you find in the Virtual V&V #code-challenges Slack channel, and I'll try to keep this list updated.
